@@ -1,1 +1,1 @@
-This repository for 0x0A-configuration_management project
+This repository for system_engineering-devops
